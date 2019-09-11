@@ -12,8 +12,7 @@ def setupDatabase():
     insert_data()    
     enroll_assign_grades()
     connection.close()
-
-
+    
 def connect(path):
     global connection, cursor
     connection = sqlite3.connect(path)
