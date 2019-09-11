@@ -5,7 +5,7 @@ Two notebooks covering the material in the second python lab
 
 Notebooks can be viewed statically in github. 
 
-If the notebooks are not rendering in github, go to https://nbviewer.jupyter.org/ and copy the url of the notebook:
+If the notebooks are not rendering in github, go to https://nbviewer.jupyter.org/ and copy the url of the notebook (links below may work):
 
 - Concepts: https://nbviewer.jupyter.org/github/imilas/291PyLab/blob/master/concepts.ipynb
 - Code Example: https://nbviewer.jupyter.org/github/imilas/291PyLab/blob/master/code_example.ipynb
