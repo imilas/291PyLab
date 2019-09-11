@@ -1,10 +1,8 @@
 Two notebooks covering the material in the second python lab
+- Concepts are covered in concepts.ipynb 
+- The working example is in code_example.ipynb 
 
-The concepts for the labs are covered in concepts.ipynb 
-The working example is in code_example.ipynb 
-
-Notebooks can be viewed statically in github.
-If the notebooks are not rendering in github, go to https://nbviewer.jupyter.org/ and copy the url of the notebook.
+Notebooks can be viewed statically in github. If the notebooks are not rendering in github, go to https://nbviewer.jupyter.org/ and copy the url of the notebook.
 
 To dynamically view and modify the notebooks:
 1. Download code
