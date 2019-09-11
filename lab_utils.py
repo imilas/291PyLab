@@ -4,9 +4,10 @@ import hashlib
 
 connection = None
 cursor = None
-path="./register.db"
 
-def setupDatabase():        
+
+def setupDatabase(path="unspecified.db"):
+    print("created database at path:",path)        
     connect(path)
     define_tables()
     insert_data()    
