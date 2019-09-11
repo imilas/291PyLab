@@ -6,11 +6,6 @@ Notebooks can be viewed statically in github.
 
 If the notebooks are not rendering in github, go to https://nbviewer.jupyter.org/ and copy the url of the notebook:
 
-
-- https://nbviewer.jupyter.org/github/imilas/291PyLab/blob/master/concepts.ipynba
-
-- https://nbviewer.jupyter.org/github/imilas/291PyLab/blob/master/code_example.ipynba
-
 To dynamically view and modify the notebooks:
 1. Download code
 2. Install jupyter-notebook
