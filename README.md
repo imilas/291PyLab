@@ -1,6 +1,7 @@
-Two notebooks covering the material in the second python lab
+Two notebooks covering the material in the second python lab and the berkleydb lab
 - Concepts are covered in concepts.ipynb 
 - The working example is in code_example.ipynb 
+- Berkleydb material in berkleydb.ipynb 
 
 
 Notebooks can be viewed statically in github. 
